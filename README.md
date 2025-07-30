@@ -1,5 +1,9 @@
-# 💫 About Me:
-I'm Currently Learning Web development<br>Html , CSS, Javascripts and Some Frameworks
+# 💫 About Me : TimeLine:
+26th April 2025 ==> I'm Currently Started Learning Web development<br>Html , CSS, Javascripts and Some Frameworks 
+
+30th July 2025 ==> My First 3 Months Becoming a Full Stack Web Developer , I fully Focuses on FrontEnd Technology , I ve learned <br> Html, Css & their frameworks like Tailwind css & SCSS , Javascript advance level[Still Learning], React js [Still Learning] , Git & GitHub Mastery, Participated in Frontend Based Hackathon, Animations Using GSAP & Framer Motion
+
+xyz Date 2025 ==> Their is More coming up & gonna rock soon   [I Build, I Solve, I Lead ==> You'll Know it When impact hit harder]
 
 
 ## 🌐 Socials:
