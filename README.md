@@ -16,7 +16,8 @@
 > Built skills. Built projects. Built teams.
 > Still just getting started.
 
-⚔️ THE TIMELINE 
+
+# THE TIMELINE 
 
 ---
 
