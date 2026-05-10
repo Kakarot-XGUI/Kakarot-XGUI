@@ -8,7 +8,7 @@
 # ::- KAKAROT-XGUI -::
 
   
-```
+```yaml
 + Self-Taught Full Stack Developer
 + Team Lead & Tech Head
 + Frontend + Backend Builder
@@ -32,7 +32,7 @@
 Started Web Development.
 
 Entered the battlefield with:
-```
+```yaml
 * HTML
 * CSS
 * JavaScript
