@@ -1,7 +1,6 @@
 # ⚡ KAKAROT-XGUI ⚡
 
-  <h1> WHO AM I ?  </h1>
-
+  
 ```
 + Self-Taught Full Stack Developer
 + Team Lead & Tech Head
