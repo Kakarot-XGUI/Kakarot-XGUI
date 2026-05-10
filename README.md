@@ -204,11 +204,10 @@ class Developer {
 + I chose the second path.
 ```
 
----
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=Kakarot-XGUI&icon=6&color=12"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739829e673be753437738b88d7"/>
 
 # ⚔️ BUILD. LEAD. DOMINATE. ⚔️
 
