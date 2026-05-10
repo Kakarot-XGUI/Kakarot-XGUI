@@ -1,10 +1,8 @@
 # ⚡ KAKAROT-XGUI ⚡
 
-=======================
+#  WHO AM I ?
 
-# 🧠 WHO AM I ?
-
-```diff
+```
 + Self-Taught Full Stack Developer
 + Team Lead & Tech Head
 + Frontend + Backend Builder
@@ -20,9 +18,9 @@
 
 ---
 
-# ⚔️ THE TIMELINE
+<h1>⚔️ THE TIMELINE </h1>
 
-## 🚀 26 APRIL 2025
+## 26 APRIL 2025
 
 Started Web Development.
 
@@ -37,7 +35,7 @@ Then it became obsession.
 
 ---
 
-# 🔥 30 JULY 2025 — 3 MONTH TRANSFORMATION
+<h1> : 30 JULY 2025 — 3 MONTH TRANSFORMATION </h1>
 
 Focused heavily on Frontend Development and mastered:
 
@@ -53,7 +51,7 @@ Frontend Stack:
   - Framer Motion
 ```
 
-### ⚡ Also:
+### Also:
 
 * Participated in Hackathons
 * Built Multiple Frontend Projects
@@ -65,7 +63,7 @@ I was already building.
 
 ---
 
-# ⚡ July & August  2025 — BACKEND ARC
+ <h1>July & August  2025 — BACKEND ARC </h1>
 
 Mastered Backend Development too.
 
@@ -80,7 +78,7 @@ Backend Stack:
 ```
 
 At the same time:
-🎓 Took admission in **JECRC University**
+ Took admission in **JECRC University**
 
 Balancing:
 
@@ -94,9 +92,9 @@ No shortcuts. Just grind.
 
 ---
 
-# 🏆 SEPTEMBER 2025 — HACKATHON DOMINATION
+<h1> 🏆 SEPTEMBER 2025 — HACKATHON DOMINATION  </h1>
 
-## 👑 TEAM : Dominator's
+<h2>👑 TEAM : Dominator's </h2>
 
 As a First Year Student, participated in a major Tech Hackathon.
 
@@ -112,13 +110,13 @@ As a First Year Student, participated in a major Tech Hackathon.
 
 ### 🛠 PROJECT:
 
-# Full Stack Complaint Management System
+ <h3> Full Stack Complaint Management System </h3>
 
 That was the moment confidence became dangerous.
 
 ---
 
-# 🎂 DECEMBER 2025 — FIRST PAID PROJECT
+<h1>🎂 DECEMBER 2025 — FIRST PAID PROJECT </h1>
 
 On my birthday month...
 
