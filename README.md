@@ -16,7 +16,7 @@
 > Still just getting started.
 
 
-### THE TIMELINE 
+## THE TIMELINE 
 
 ---
 
