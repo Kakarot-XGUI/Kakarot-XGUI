@@ -200,7 +200,7 @@ class Developer {
 ###  FINAL MESSAGE
 
 ```diff
-+ Some people wait for opportunities.
+- Some people wait for opportunities.
 + Some people build them.
 
 + I chose the second path.
