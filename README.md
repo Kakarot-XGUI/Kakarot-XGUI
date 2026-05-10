@@ -98,11 +98,11 @@ No shortcuts. Just grind.
 
 As a First Year Student, participated in a major Tech Hackathon.
 
-### 📈 RESULT:
+###  RESULT:
 
-# TOP 5 OUT OF 130+ TEAMS
+### TOP 5 OUT OF 130+ TEAMS
 
-### 💀 MY ROLE:
+##### 💀 MY ROLE:
 
 * Team Lead
 * Tech Head
