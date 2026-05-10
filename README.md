@@ -32,10 +32,11 @@
 Started Web Development.
 
 Entered the battlefield with:
-
+```
 * HTML
 * CSS
 * JavaScript
+```
 
 At first it was curiosity.
 Then it became obsession.
