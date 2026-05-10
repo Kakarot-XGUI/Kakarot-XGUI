@@ -17,6 +17,7 @@
 > Still just getting started.
 
 ⚔️ THE TIMELINE 
+
 ---
 
 <h1>:  26 APRIL 2025 </h1>
