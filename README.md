@@ -20,7 +20,7 @@
 
 ---
 
-<h1>:  26 APRIL 2025 </h1>
+### :  26 APRIL 2025 
 
 Started Web Development.
 
@@ -35,7 +35,7 @@ Then it became obsession.
 
 ---
 
-<h1> : 30 JULY 2025 — 3 MONTH TRANSFORMATION </h1>
+### : 30 JULY 2025 — 3 MONTH TRANSFORMATION 
 
 Focused heavily on Frontend Development and mastered:
 
