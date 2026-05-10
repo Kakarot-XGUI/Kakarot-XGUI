@@ -1,6 +1,6 @@
 # ⚡ KAKAROT-XGUI ⚡
 
-#  WHO AM I ?
+ WHO AM I ?
 
 ```
 + Self-Taught Full Stack Developer
@@ -20,7 +20,7 @@
 
 <h1>⚔️ THE TIMELINE </h1>
 
-## 26 APRIL 2025
+<h1>:  26 APRIL 2025 </h1>
 
 Started Web Development.
 
