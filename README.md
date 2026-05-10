@@ -133,7 +133,7 @@ That changed everything.
 
 ---
 
-### <h1>🔥 JANUARY 2026 — LARAVEL ERA </h1>
+### <h2>🔥 JANUARY 2026 — LARAVEL ERA </h2>
 
 Started learning:
 
