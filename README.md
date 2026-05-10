@@ -116,13 +116,13 @@ That was the moment confidence became dangerous.
 
 ---
 
-### 👻 DECEMBER 2025 — FIRST PAID PROJECT 
+### :-- DECEMBER 2025 — FIRST PAID PROJECT --:
 
 On my birthday month...
 
 My team and I completed our:
 
-### 💼 FIRST PAID PROJECT
+### :-- FIRST PAID PROJECT --:
 
 That changed everything.
 
