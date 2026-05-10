@@ -16,9 +16,8 @@
 > Built skills. Built projects. Built teams.
 > Still just getting started.
 
----
-
 <h1>⚔️ THE TIMELINE </h1>
+---
 
 <h1>:  26 APRIL 2025 </h1>
 
