@@ -92,9 +92,9 @@ No shortcuts. Just grind.
 
 ---
 
-<h1> 🏆 SEPTEMBER 2025 — HACKATHON DOMINATION  </h1>
+### 🏆 SEPTEMBER 2025 — HACKATHON DOMINATION  
 
-<h2>👑 TEAM : Dominator's </h2>
+####  TEAM : Dominator's 
 
 As a First Year Student, participated in a major Tech Hackathon.
 
