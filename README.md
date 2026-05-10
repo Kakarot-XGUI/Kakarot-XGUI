@@ -133,7 +133,7 @@ That changed everything.
 
 ---
 
-### <h2>🔥 JANUARY 2026 — LARAVEL ERA </h2>
+### 🔥 JANUARY 2026 — LARAVEL ERA 
 
 Started learning:
 
@@ -151,7 +151,7 @@ const future = "Under Construction...";
 
 ---
 
-# ⚡ CURRENT STATUS
+### CURRENT STATUS
 
 ```cpp
 class Developer {
