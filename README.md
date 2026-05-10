@@ -194,11 +194,9 @@ class Developer {
 ---
 [![](https://visitcount.itsvg.in/api?id=Kakarot-XGUI&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ###  FINAL MESSAGE
-
 ```diff
 - Some people wait for opportunities.
 + Some people build them.
