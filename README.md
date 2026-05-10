@@ -207,7 +207,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://i.scdn.co/image/ab67616d0000b2739829e673be753437738b88d7"/>
+<img src="Official Id Logo.jpg"/>
 
 # ⚔️ BUILD. LEAD. DOMINATE. ⚔️
 
