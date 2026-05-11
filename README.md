@@ -181,9 +181,11 @@ class Developer {
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kakarot-XGUI&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=Kakarot-XGUI&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Kakarot-XGUI&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kakarot-XGUI&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kakarot-XGUI&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
