@@ -85,12 +85,10 @@ Backend Stack:
   - Full Stack Architecture
 ```
 
-At the same time:
- Took admission in **JECRC University**
 
 Balancing:
 
-* College
+
 * Backend
 * Projects
 * Team Work
@@ -104,7 +102,7 @@ No shortcuts. Just grind.
 
 ####  TEAM : Dominator's 
 
-As a First Year Student, participated in a major Tech Hackathon.
+ participated in a major Tech Hackathon.
 
 ###  RESULT:
 
